@@ -1,1 +1,1 @@
-# yawa-comprog-wayklaro-mo-tudlo
+# yawa
